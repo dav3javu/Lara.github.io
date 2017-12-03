@@ -1,0 +1,136 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dhr.harrison.Website" resolutions="1x" timestamp="1512310422554">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="house.css" crc="457722473" ref="house"/>
+    <file name="index.css" crc="4880797" ref="index"/>
+    <file name="game-over.css" crc="8212511" ref="game-over"/>
+    <file name="crime-scene-a.css" crc="458166249" ref="crime-scene-a"/>
+    <file name="crime-scene-b.css" crc="315433338" ref="crime-scene-b"/>
+    <file name="bad-end-a.css" crc="131646035" ref="bad-end-a"/>
+    <file name="line-upa.css" crc="107035078" ref="line-upa"/>
+    <file name="good-end.css" crc="3991487225" ref="good-end"/>
+    <file name="bad-end-b.css" crc="4280152290" ref="bad-end-b"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:house:crime-scene-a:game-over:crime-scene-b:bad-end-a:line-upa:good-end:bad-end-b"/>
+    <file name="museutils.js" crc="3803043152" ref="index:house:crime-scene-a:game-over:crime-scene-b:bad-end-a:line-upa:good-end:bad-end-b"/>
+    <file name="whatinput.js" crc="86476730" ref="index:house:crime-scene-a:game-over:crime-scene-b:bad-end-a:line-upa:good-end:bad-end-b"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:house:crime-scene-a:game-over:crime-scene-b:bad-end-a:line-upa:good-end:bad-end-b"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:house:crime-scene-a:game-over:crime-scene-b:bad-end-a:line-upa:good-end:bad-end-b"/>
+    <file name="require.js" crc="4157109226" ref="index:house:crime-scene-a:game-over:crime-scene-b:bad-end-a:line-upa:good-end:bad-end-b"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="house:crime-scene-a:crime-scene-b:line-upa"/>
+  </folder>
+  <folder name="images">
+    <file name="backgrounda.svg" crc="513971434" seo="true" ref="house">
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="backgrounda_poster_.png" crc="447166328" ref="house"/>
+    <file name="book.svg" crc="300249265" ref="house"/>
+    <file name="book_poster_u287.png" crc="194657919" ref="house"/>
+    <file name="note2.svg" crc="487826693" ref="house"/>
+    <file name="note2_poster_u263.png" crc="4117239412" ref="house"/>
+    <file name="globe.svg" crc="4092052319" ref="house"/>
+    <file name="globe_poster_u279.png" crc="3771274531" ref="house"/>
+    <file name="note3.svg" crc="69222168" ref="house"/>
+    <file name="note3_poster_u271.png" crc="4175965423" ref="house"/>
+    <file name="phone.svg" crc="392472236" ref="house"/>
+    <file name="phone_poster_u212.png" crc="1549355" ref="house"/>
+    <file name="note.svg" crc="4125357220" ref="house"/>
+    <file name="note_poster_u255.png" crc="4290437751" ref="house"/>
+    <file name="background.svg" crc="3822082231" seo="true" ref="crime-scene-a">
+      <caption webpage="crime-scene-a" alt=""/>
+    </file>
+    <file name="background_poster_.png" crc="4273090823" ref="crime-scene-a"/>
+    <file name="blood.svg" crc="4243569872" ref="crime-scene-a"/>
+    <file name="blood_poster_u455.png" crc="4124971219" ref="crime-scene-a"/>
+    <file name="note4.svg" crc="334893363" ref="crime-scene-a"/>
+    <file name="note4_poster_u463.png" crc="4048253338" ref="crime-scene-a"/>
+    <file name="print.svg" crc="54411856" ref="crime-scene-a"/>
+    <file name="print_poster_u474.png" crc="4027052751" ref="crime-scene-a"/>
+    <file name="note6.svg" crc="3938869255" ref="crime-scene-a"/>
+    <file name="note6_poster_u482.png" crc="4140672385" ref="crime-scene-a"/>
+    <file name="lighter.svg" crc="4199290679" ref="crime-scene-a"/>
+    <file name="lighter_poster_u493.png" crc="3815275981" ref="crime-scene-a"/>
+    <file name="note7.svg" crc="3817803600" ref="crime-scene-a"/>
+    <file name="note7_poster_u501.png" crc="321852562" ref="crime-scene-a"/>
+    <file name="hair.svg" crc="4281832821" ref="crime-scene-a"/>
+    <file name="hair_poster_u523.png" crc="4052838509" ref="crime-scene-a"/>
+    <file name="note8.svg" crc="163020498" ref="crime-scene-a"/>
+    <file name="note8_poster_u531.png" crc="3885395516" ref="crime-scene-a"/>
+    <file name="clips.svg" crc="3998021202" ref="crime-scene-a"/>
+    <file name="clips_poster_u556.png" crc="140871935" ref="crime-scene-a"/>
+    <file name="note9.svg" crc="407711731" ref="crime-scene-a"/>
+    <file name="note9_poster_u564.png" crc="3958800195" ref="crime-scene-a"/>
+    <file name="whiskey.svg" crc="4168111958" ref="crime-scene-a"/>
+    <file name="whiskey_poster_u575.png" crc="332956044" ref="crime-scene-a"/>
+    <file name="note5.svg" crc="3843190143" ref="crime-scene-a"/>
+    <file name="note5_poster_u607.png" crc="381669566" ref="crime-scene-a"/>
+    <file name="body.svg" crc="3769197545" ref="crime-scene-a"/>
+    <file name="body_poster_u621.png" crc="501910473" ref="crime-scene-a"/>
+    <file name="note10.svg" crc="4179030314" ref="crime-scene-a"/>
+    <file name="note10_poster_u629.png" crc="26557020" ref="crime-scene-a"/>
+    <file name="note11.svg" crc="1488070" ref="crime-scene-a"/>
+    <file name="note11_poster_u640.png" crc="4093081809" ref="crime-scene-a"/>
+    <file name="backgroundd.svg" crc="141844580" seo="true" ref="crime-scene-b">
+      <caption webpage="crime-scene-b" alt=""/>
+    </file>
+    <file name="backgroundd_poster_.png" crc="3793263259" ref="crime-scene-b"/>
+    <file name="wall.svg" crc="183365267" ref="crime-scene-b"/>
+    <file name="wall_poster_u764.png" crc="500210075" ref="crime-scene-b"/>
+    <file name="note20.svg" crc="3960745431" ref="crime-scene-b"/>
+    <file name="note20_poster_u788.png" crc="284030144" ref="crime-scene-b"/>
+    <file name="oil.svg" crc="3815633033" ref="crime-scene-b"/>
+    <file name="oil_poster_u799.png" crc="259491197" ref="crime-scene-b"/>
+    <file name="note21.svg" crc="3849027306" ref="crime-scene-b"/>
+    <file name="note21_poster_u807.png" crc="25441515" ref="crime-scene-b"/>
+    <file name="glove.svg" crc="207451026" ref="crime-scene-b"/>
+    <file name="glove_poster_u818.png" crc="319238924" ref="crime-scene-b"/>
+    <file name="note22.svg" crc="3832709004" ref="crime-scene-b"/>
+    <file name="note22_poster_u826.png" crc="228233727" ref="crime-scene-b"/>
+    <file name="gun.svg" crc="527898686" ref="crime-scene-b"/>
+    <file name="gun_poster_u837.png" crc="3824898000" ref="crime-scene-b"/>
+    <file name="note23.svg" crc="208677707" ref="crime-scene-b"/>
+    <file name="note23_poster_u845.png" crc="4230388103" ref="crime-scene-b"/>
+    <file name="cig.svg" crc="3994883698" ref="crime-scene-b"/>
+    <file name="cig_poster_u870.png" crc="4280879840" ref="crime-scene-b"/>
+    <file name="note24.svg" crc="101129942" ref="crime-scene-b"/>
+    <file name="note24_poster_u878.png" crc="4093931059" ref="crime-scene-b"/>
+    <file name="boot.svg" crc="393737913" ref="crime-scene-b"/>
+    <file name="boot_poster_u889.png" crc="435806239" ref="crime-scene-b"/>
+    <file name="note25.svg" crc="477730594" ref="crime-scene-b"/>
+    <file name="note25_poster_u897.png" crc="259531974" ref="crime-scene-b"/>
+    <file name="lamp.svg" crc="120043898" ref="crime-scene-b"/>
+    <file name="lamp_poster_u908.png" crc="3882590868" ref="crime-scene-b"/>
+    <file name="note26.svg" crc="3811201898" ref="crime-scene-b"/>
+    <file name="note26_poster_u916.png" crc="327738605" ref="crime-scene-b"/>
+    <file name="note27.svg" crc="321484534" ref="crime-scene-b"/>
+    <file name="note27_poster_u927.png" crc="77913242" ref="crime-scene-b"/>
+    <file name="note28.svg" crc="156970876" ref="crime-scene-b"/>
+    <file name="note28_poster_u938.png" crc="3902154678" ref="crime-scene-b"/>
+    <file name="lineup.svg" crc="169001482" seo="true" ref="line-upa">
+      <caption webpage="line-upa" alt=""/>
+    </file>
+    <file name="lineup_poster_.png" crc="3906144022" ref="line-upa"/>
+    <file name="a.svg" crc="19818939" ref="line-upa"/>
+    <file name="a_poster_u996.png" crc="4063379631" ref="line-upa"/>
+    <file name="a suspect.svg" crc="280887514" ref="line-upa"/>
+    <file name="a suspect_poster_u1020.png" crc="4074534899" ref="line-upa"/>
+    <file name="b.svg" crc="308257595" ref="line-upa"/>
+    <file name="b_poster_u1031.png" crc="3846171644" ref="line-upa"/>
+    <file name="b suspect.svg" crc="509802511" ref="line-upa"/>
+    <file name="b suspect_poster_u1039.png" crc="4240484503" ref="line-upa"/>
+    <file name="c.svg" crc="479140539" ref="line-upa"/>
+    <file name="c_poster_u1050.png" crc="380404745" ref="line-upa"/>
+    <file name="c suspect.svg" crc="78022084" ref="line-upa"/>
+    <file name="c suspect_poster_u1058.png" crc="497965263" ref="line-upa"/>
+  </folder>
+  <file name="index.html" crc="262952696" seo="true" mt="1512308872992" redirect="true"/>
+  <file name="house.html" crc="355208909" seo="true" mt="1512298151644" redirect="true"/>
+  <file name="crime-scene-a.html" crc="4098502153" seo="true" mt="1512305539011" redirect="true"/>
+  <file name="game-over.html" crc="4225268136" seo="true" mt="1512297967260" redirect="true"/>
+  <file name="crime-scene-b.html" crc="310546737" seo="true" mt="1512310278109" redirect="true"/>
+  <file name="bad-end-a.html" crc="4135794619" seo="true" mt="1512310245307" redirect="true"/>
+  <file name="line-upa.html" crc="3962253622" seo="true" mt="1512310309950" redirect="true"/>
+  <file name="good-end.html" crc="4052119327" seo="true" mt="1512310232368" redirect="true"/>
+  <file name="bad-end-b.html" crc="299960500" seo="true" mt="1512310241041" redirect="true"/>
+</manifest>
